@@ -1,3 +1,4 @@
+
 # Dissipative Gauge Fields: A Thermodynamic Unification of Fundamental Interactions
 
 **Author:** Fdo. Andres Lopez  
@@ -47,3 +48,4 @@ This model represents a **paradigm shift beyond ΛCDM**, offering falsifiable pr
 │     └── QNM_frequency_domain.csv
 ├── README.md                          # Project documentation
 └── LICENSE                            # License file (or included in README)
+
